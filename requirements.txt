@@ -1,0 +1,10 @@
+fastapi==0.115.5
+uvicorn==0.32.1
+transformers==4.46.3
+torch==2.5.1
+pydantic==2.10.0
+sentencepiece==0.2.0
+langchain==0.3.7
+langchain_community==0.3.7
+langchain_openai==0.2.9
+langchain_huggingface==0.1.2
